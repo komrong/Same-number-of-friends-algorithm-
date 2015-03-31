@@ -6,7 +6,7 @@ always mutual.)
 */
 
 /*
-The ALgorithm generates random friends for specified n number of people and detects if two has same 
+The Algorithm generates random friends for specified n number of people and detects if two has same 
 number of friends.
 */
 
